@@ -4,6 +4,6 @@ title: "CV"
 ---
 You can view my CV here:
 
-(Click for PDF)[acevrooman.github.io/CVApril2024.pdf]
+<embed src="https://acevrooman.github.io/CVApril2024.pdf" type="application/pdf" />
 
 
