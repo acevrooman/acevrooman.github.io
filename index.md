@@ -2,6 +2,7 @@
 layout: page
 title: "Biography"
 ---
+![Arlinde Vrooman](PortraitArlinde.jpg)
 
 Currently, I am a postdoctoral researcher at the Tilburg Center of the Learning Sciences of Tilburg University, where I work on an educational research project. I also supervise bachelor theses on quantitative economics topics and lecture in Institutional Economics at University College Tilburg.
 
