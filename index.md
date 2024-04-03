@@ -12,6 +12,6 @@ Previously, I was affiliated with the University of Groningen, within the Depart
 My research interests include economic history, with a specific focus on African economic history, development economics, and economics of education.
 
 
-# Heading 1: "Recent publications"
+# Recent publications
 Vrooman, A.C.E. (2023). The development of colonial health care provision in Ghana and Côte d'Ivoire: ca. 1900-55. *Economic History of Developing Regions, 38*(3), 215-255. [https://doi.org/10.1080/20780389.2023.2209284](https://doi.org/10.1080/20780389.2023.2209284)
 
