@@ -9,7 +9,7 @@ title: "Biography"
 Previously, I was affiliated with the University of Groningen, within the Department of Economics, Econometrics and Finance, where I obtained my PhD in Economics in March 2024. My PhD thesis researches the effect of colonial rule on disease and health care in Ghana and Côte d'Ivoire (ca. 1900-1955).
 
 
-My research interests include economic history, with a specific focus on African economic history, development economics, and economics of education.
+My research interests include (African) economic history, international economics, development economics, and economics of education.
 
 
 # Recent publications
