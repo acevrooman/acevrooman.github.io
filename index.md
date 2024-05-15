@@ -19,6 +19,6 @@ Vrooman, A.C.E. (2024). *Here to Heal? The Effect of Colonial Rule on Disease an
 Vrooman, A.C.E. (2023). The development of colonial health care provision in Ghana and Côte d'Ivoire: ca. 1900-55. *Economic History of Developing Regions, 38*(3), 215-255. [https://doi.org/10.1080/20780389.2023.2209284](https://doi.org/10.1080/20780389.2023.2209284)
 
 # Other publications
-Vrooman, A.C.E. (2024, May 15). The Development of Colonial Health Care Provision in Ghana and Côte d’Ivoire, 1900-1955. *Frontiers in African Economic History*. [https://www.aehnetwork.org/blog/the-development-of-colonial-health-care-provision-in-ghana-and-cote-divoire-1900-1955/]
+Vrooman, A.C.E. (2024, May 15). The Development of Colonial Health Care Provision in Ghana and Côte d’Ivoire, 1900-1955. *Frontiers in African Economic History*. [https://www.aehnetwork.org/blog/the-development-of-colonial-health-care-provision-in-ghana-and-cote-divoire-1900-1955/](https://www.aehnetwork.org/blog/the-development-of-colonial-health-care-provision-in-ghana-and-cote-divoire-1900-1955/)
 
 
