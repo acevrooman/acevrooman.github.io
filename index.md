@@ -3,10 +3,10 @@ layout: page
 title: "Biography"
 ---
 
-![Arlinde Vrooman](PortraitArlinde.jpg){: style="float: left; margin-right: 1em;"}Currently, I am a postdoctoral researcher at the Tilburg Center of the Learning Sciences of Tilburg University, where I work on an educational research project. I also supervise bachelor theses on quantitative economics topics and teach Institutional Economics at University College Tilburg.
+![Arlinde Vrooman](PortraitArlinde.jpg){: style="float: left; margin-right: 1em;"}Currently, I am a postdoctoral researcher at Tilburg School of Economics and Management, where I work on a research project into the future of Dutch economics academic education. I also supervise bachelor theses on quantitative economics topics and teach several courses at University College Tilburg.
 
 
-Previously, I was affiliated with the University of Groningen, within the Department of Economics, Econometrics and Finance, where I obtained my PhD in Economics in March 2024. My PhD thesis researches the effect of colonial rule on disease and health care in Ghana and Côte d'Ivoire (ca. 1900-1955).
+Previously, I was a postdoctoral researcher at the Tilburg Center of the Learning Sciences of Tilburg University, where I worked on the same educational research project, supervised bachelor theses and taught Institutional Economics at University College Tilburg (Dec 2023 - Jul 2024). From 2018 to 2024, I was affiliated with the University of Groningen, within the Department of Economics, Econometrics and Finance, where I obtained my PhD in Economics in March 2024. My PhD thesis researches the effect of colonial rule on disease and health care in Ghana and Côte d'Ivoire (ca. 1900-1955).
 
 
 My research interests include (African) economic history, international economics, development economics, and economics of education.
