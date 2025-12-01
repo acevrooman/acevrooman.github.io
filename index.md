@@ -3,16 +3,14 @@ layout: page
 title: "Biography"
 ---
 
-![Arlinde Vrooman](PortraitArlinde.jpg){: style="float: left; margin-right: 1em;"}Currently, I am a postdoctoral researcher at Tilburg School of Economics and Management, where I work on a research project into the future of Dutch economics academic education. I also supervise bachelor theses on quantitative economics topics and teach several courses at University College Tilburg.
+![Arlinde Vrooman](PortraitArlinde.jpg){: style="float: left; margin-right: 1em;"}Currently, I am a postdoctoral researcher at the Huygens Institute, where I contribute to the project "HEAT: Historische energietransities en AI-toepassingen", in which we study historical energy transitions and climate using large-scale databases and Natural Language Processing analyses.
 
-
-Previously, I was a postdoctoral researcher at the Tilburg Center of the Learning Sciences of Tilburg University, where I worked on the same educational research project, supervised bachelor theses and taught Institutional Economics at University College Tilburg (Dec 2023 - Jul 2024). 
+Previously, I was a postdoctoral researcher at the Tilburg Center of the Learning Sciences of Tilburg University (December 2023 - July 2024) and Tilburg School of Economics and Management (August 2024 - November 2025), where I worked on a research project into the future of Dutch academic education in economics and business economics. I also taught several courses and supervised bachelor theses on quantitative economics topics at University College Tilburg.
 
 From 2018 to 2024, I was affiliated with the University of Groningen, within the Department of Economics, Econometrics and Finance, where I obtained my PhD in Economics in March 2024. My [PhD thesis](https://doi.org/10.33612/diss.902625484) researches the effect of colonial rule on disease and health care in Ghana and Côte d'Ivoire (ca. 1900-1955).
 
 
-My research interests include (African) economic history, economics of education, development economics and international economics.
-
+My research interests include history of climate and energy, African economic history, colonial history, and economics of education, using a variety of quantitative methodologies including econometrics and statistics (Python, R, and Stata), natural language processing (Python), and geographic information systems (QGIS).
 
 # Recent publications
 Vrooman, A.C.E. (2025). The colonial response to the development of disease in Ghana and Côte d’Ivoire (ca. 1900-1955): A comparative analysis of British and French colonial health policies. *PLoS ONE, 20*(8): e0329713. [https://doi.org/10.1371/journal.
