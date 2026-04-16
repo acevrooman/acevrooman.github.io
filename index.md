@@ -21,7 +21,7 @@ Vrooman, A.C.E. (2024). *Here to Heal? The Effect of Colonial Rule on Disease an
 Vrooman, A.C.E. (2023). The development of colonial health care provision in Ghana and Côte d'Ivoire: ca. 1900-55. *Economic History of Developing Regions, 38*(3), 215-255. [https://doi.org/10.1080/20780389.2023.2209284](https://doi.org/10.1080/20780389.2023.2209284)
 
 # Other research-related outputs
-Vrooman, A.C.E. (2026). Constructing a Dutch Historical Climate Vocabulary (v1.1) based on GLOBALISE [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18377559](https://doi.org/10.5281/zenodo.18377559)
+Vrooman, A.C.E. (2026). Constructing a Dutch Historical Climate Vocabulary (v1.1) based on GLOBALISE [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.19608045](https://doi.org/10.5281/zenodo.19608045)
 
 Vrooman, A.C.E. (2026). Constructing a Dutch Historical Climate Vocabulary (v1) based on GLOBALISE. Zenodo. [https://doi.org/10.5281/zenodo.18246268](https://doi.org/10.5281/zenodo.18246268)
 
