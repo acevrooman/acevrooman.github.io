@@ -3,7 +3,7 @@ layout: page
 title: "Biography"
 ---
 
-![Arlinde Vrooman](PortraitArlinde.jpg){: style="float: left; margin-right: 1em;"}Currently, I am a postdoctoral researcher at the Huygens Institute, where I contribute to the project "HEAT: Historische energietransities en AI-toepassingen", in which we study historical energy transitions and climate using large-scale databases and Natural Language Processing analyses.
+![Arlinde Vrooman](PortraitArlinde.jpg){: style="float: left; margin-right: 1em;"}Currently, I am a postdoctoral researcher at the Huygens Institute as part of the project "HEAT: Historische energietransities en AI-toepassingen", where I study historical climate and energy transitions using large-scale digitized historical databases and Natural Language Processing analyses.
 
 Previously, I was a postdoctoral researcher at the Tilburg Center of the Learning Sciences of Tilburg University (December 2023 - July 2024) and Tilburg School of Economics and Management (August 2024 - November 2025), where I worked on a research project into the future of Dutch academic education in economics and business economics. I also taught several courses and supervised bachelor theses on quantitative economics topics at University College Tilburg.
 
@@ -21,6 +21,8 @@ Vrooman, A.C.E. (2024). *Here to Heal? The Effect of Colonial Rule on Disease an
 Vrooman, A.C.E. (2023). The development of colonial health care provision in Ghana and Côte d'Ivoire: ca. 1900-55. *Economic History of Developing Regions, 38*(3), 215-255. [https://doi.org/10.1080/20780389.2023.2209284](https://doi.org/10.1080/20780389.2023.2209284)
 
 # Other research-related outputs
+Vrooman, A. C. E. (2026). Constructing a Dutch Historical Climate Vocabulary (v1.2) based on GLOBALISE. Zenodo. [https://doi.org/10.5281/zenodo.20134102](https://doi.org/10.5281/zenodo.20134102)
+
 Vrooman, A.C.E. (2026). Structuring Colonial Health Care Facilities: Understanding the Factors Behind their Spatial Diffusion
 in Ghana and Côte d’Ivoire, ca. 1900-1950. Manuscript under review. Preprint at SSRN: [https://dx.doi.org/10.2139/ssrn.6446654](https://dx.doi.org/10.2139/ssrn.6446654)
 
