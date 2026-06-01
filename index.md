@@ -12,9 +12,7 @@ From 2018 to 2024, I was affiliated with the University of Groningen, within the
 My research interests include history of climate and energy, African economic history, colonial history, and economics of education, using a variety of quantitative methodologies including econometrics and statistics (Python, R, and Stata), natural language processing (Python), and geographic information systems (QGIS).
 
 # Publications
-Vrooman, A.C.E. (2025). The colonial response to the development of disease in Ghana and Côte d’Ivoire (ca. 1900-1955): A comparative analysis of British and French colonial health policies. *PLoS ONE, 20*(8): e0329713. [https://doi.org/10.1371/journal.
-pone.0329713](https://doi.org/10.1371/journal.
-pone.0329713)
+Vrooman, A.C.E. (2025). The colonial response to the development of disease in Ghana and Côte d’Ivoire (ca. 1900-1955): A comparative analysis of British and French colonial health policies. *PLoS ONE, 20*(8): e0329713. [https://doi.org/10.1371/journal.pone.0329713](https://doi.org/10.1371/journal.pone.0329713)
 
 Vrooman, A.C.E. (2024). *Here to Heal? The Effect of Colonial Rule on Disease and Health Care in Ghana and Côte d'Ivoire: ca. 1900-1955* (Doctoral dissertation, University of Groningen). [https://doi.org/10.33612/diss.902625484](https://research.rug.nl/en/publications/here-to-heal-the-effect-of-colonial-rule-on-disease-and-health-ca/)
 
