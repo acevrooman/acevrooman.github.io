@@ -7,7 +7,7 @@ title: "Biography"
 
 Previously, I was a postdoctoral researcher at the Tilburg Center of the Learning Sciences of Tilburg University (December 2023 - July 2024) and Tilburg School of Economics and Management (August 2024 - November 2025), where I worked on a research project into the future of Dutch academic education in economics and business economics. I also taught several courses and supervised bachelor theses on quantitative economics topics at University College Tilburg.
 
-From 2018 to 2024, I was affiliated with the University of Groningen, within the Department of Economics, Econometrics and Finance, where I obtained my PhD in Economics in March 2024. My [PhD thesis](https://doi.org/10.33612/diss.902625484) researches the effect of colonial rule on disease and health care in Ghana and Côte d'Ivoire (ca. 1900-1955).
+From 2018 to 2024, I was affiliated with the University of Groningen, within the Department of Economics, Econometrics and Finance, where I obtained my PhD in Economics in March 2024. My [PhD thesis](https://research.rug.nl/en/publications/here-to-heal-the-effect-of-colonial-rule-on-disease-and-health-ca/) researches the effect of colonial rule on disease and health care in Ghana and Côte d'Ivoire (ca. 1900-1955).
 
 My research interests include history of climate and energy, African economic history, colonial history, and economics of education, using a variety of quantitative methodologies including econometrics and statistics (Python, R, and Stata), natural language processing (Python), and geographic information systems (QGIS).
 
@@ -16,7 +16,7 @@ Vrooman, A.C.E. (2025). The colonial response to the development of disease in G
 pone.0329713](https://doi.org/10.1371/journal.
 pone.0329713)
 
-Vrooman, A.C.E. (2024). *Here to Heal? The Effect of Colonial Rule on Disease and Health Care in Ghana and Côte d'Ivoire: ca. 1900-1955* (Doctoral dissertation, University of Groningen). [https://doi.org/10.33612/diss.902625484](https://doi.org/10.33612/diss.902625484)
+Vrooman, A.C.E. (2024). *Here to Heal? The Effect of Colonial Rule on Disease and Health Care in Ghana and Côte d'Ivoire: ca. 1900-1955* (Doctoral dissertation, University of Groningen). [https://doi.org/10.33612/diss.902625484](https://research.rug.nl/en/publications/here-to-heal-the-effect-of-colonial-rule-on-disease-and-health-ca/)
 
 Vrooman, A.C.E. (2023). The development of colonial health care provision in Ghana and Côte d'Ivoire: ca. 1900-55. *Economic History of Developing Regions, 38*(3), 215-255. [https://doi.org/10.1080/20780389.2023.2209284](https://doi.org/10.1080/20780389.2023.2209284)
 
