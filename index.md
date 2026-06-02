@@ -22,7 +22,7 @@ Vrooman, A.C.E. (2023). The development of colonial health care provision in Gha
 Vrooman, A. C. E. (2026). Constructing a Dutch Historical Climate Vocabulary (v1.2) based on GLOBALISE. Zenodo. [https://doi.org/10.5281/zenodo.20134102](https://doi.org/10.5281/zenodo.20134102)
 
 Vrooman, A.C.E. (2026). Structuring Colonial Health Care Facilities: Understanding the Factors Behind their Spatial Diffusion
-in Ghana and Côte d’Ivoire, ca. 1900-1950. Manuscript under review. Preprint at SSRN: [https://dx.doi.org/10.2139/ssrn.6446654](https://dx.doi.org/10.2139/ssrn.6446654)
+in Ghana and Côte d’Ivoire, ca. 1900-1950. Manuscript status: R&R. Preprint at SSRN: [https://dx.doi.org/10.2139/ssrn.6446654](https://dx.doi.org/10.2139/ssrn.6446654)
 
 Vrooman, A.C.E. (2026). Constructing a Dutch Historical Climate Vocabulary (v1.1) based on GLOBALISE. Zenodo. [https://doi.org/10.5281/zenodo.19608045](https://doi.org/10.5281/zenodo.19608045)
 
