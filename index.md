@@ -12,24 +12,26 @@ From 2018 to 2024, I was affiliated with the University of Groningen, within the
 My research interests include history of climate and energy, African economic history, colonial history, and economics of education, using a variety of quantitative methodologies including econometrics and statistics (Python, R, and Stata), natural language processing (Python), and geographic information systems (QGIS).
 
 # Publications
-Vrooman, A.C.E. (2025). The colonial response to the development of disease in Ghana and Côte d’Ivoire (ca. 1900-1955): A comparative analysis of British and French colonial health policies. *PLoS ONE, 20*(8): e0329713. [https://doi.org/10.1371/journal.pone.0329713](https://doi.org/10.1371/journal.pone.0329713)
+• Vrooman, A.C.E. (2025). The colonial response to the development of disease in Ghana and Côte d’Ivoire (ca. 1900-1955): A comparative analysis of British and French colonial health policies. *PLoS ONE, 20*(8): e0329713. [https://doi.org/10.1371/journal.pone.0329713](https://doi.org/10.1371/journal.pone.0329713)
 
-Vrooman, A.C.E. (2024). *Here to Heal? The Effect of Colonial Rule on Disease and Health Care in Ghana and Côte d'Ivoire: ca. 1900-1955* (Doctoral dissertation, University of Groningen). [https://doi.org/10.33612/diss.902625484](https://research.rug.nl/en/publications/here-to-heal-the-effect-of-colonial-rule-on-disease-and-health-ca/)
+• Vrooman, A.C.E. (2024). *Here to Heal? The Effect of Colonial Rule on Disease and Health Care in Ghana and Côte d'Ivoire: ca. 1900-1955* (Doctoral dissertation, University of Groningen). [https://doi.org/10.33612/diss.902625484](https://research.rug.nl/en/publications/here-to-heal-the-effect-of-colonial-rule-on-disease-and-health-ca/)
 
-Vrooman, A.C.E. (2023). The development of colonial health care provision in Ghana and Côte d'Ivoire: ca. 1900-55. *Economic History of Developing Regions, 38*(3), 215-255. [https://doi.org/10.1080/20780389.2023.2209284](https://doi.org/10.1080/20780389.2023.2209284)
+• Vrooman, A.C.E. (2023). The development of colonial health care provision in Ghana and Côte d'Ivoire: ca. 1900-55. *Economic History of Developing Regions, 38*(3), 215-255. [https://doi.org/10.1080/20780389.2023.2209284](https://doi.org/10.1080/20780389.2023.2209284)
+
+# Working papers
+• Vrooman, A.C.E. (2026). Constructing Semantically Coherent and Interpretable Historical Vocabularies from Domain-Specific Corpora: An Early Modern Dutch Case Study in Climate and Weather using VOC archives.  [https://doi.org/10.5281/zenodo.20629251](https://doi.org/10.5281/zenodo.20629251)
+
+• Vrooman, A.C.E. (2026). Structuring Colonial Health Care Facilities: Understanding the Factors Behind their Spatial Diffusion in Ghana and Côte d’Ivoire, ca. 1900-1950.[https://dx.doi.org/10.2139/ssrn.6446654](https://dx.doi.org/10.2139/ssrn.6446654)
+
+• Vrooman, A.C.E. (2025). Curriculum Development in Academic Economics Education: Evidence from Dutch BSc Programmes in Economics and Business Economics (ca. 2010-2025) using Natural Language Processing. [https://dx.doi.org/10.2139/ssrn.6994920](https://dx.doi.org/10.2139/ssrn.6994920)
 
 # Other research-related outputs
-Vrooman, A. C. E. (2026). Constructing Semantically Coherent and Interpretable Historical Vocabularies from Domain-Specific Corpora: An Early Modern Dutch Case Study in Climate and Weather using VOC archives. Manuscript status: submitted. Working paper at Zenodo. [https://doi.org/10.5281/zenodo.20629251](https://doi.org/10.5281/zenodo.20629251)
+• Vrooman, A. C. E. (2026). Constructing a Dutch Historical Climate Vocabulary (v1.2) based on GLOBALISE. Zenodo. [https://doi.org/10.5281/zenodo.20134102](https://doi.org/10.5281/zenodo.20134102)
 
-Vrooman, A. C. E. (2026). Constructing a Dutch Historical Climate Vocabulary (v1.2) based on GLOBALISE. Zenodo. [https://doi.org/10.5281/zenodo.20134102](https://doi.org/10.5281/zenodo.20134102)
+• Vrooman, A.C.E. (2026). Constructing a Dutch Historical Climate Vocabulary (v1.1) based on GLOBALISE. Zenodo. [https://doi.org/10.5281/zenodo.19608045](https://doi.org/10.5281/zenodo.19608045)
 
-Vrooman, A.C.E. (2026). Structuring Colonial Health Care Facilities: Understanding the Factors Behind their Spatial Diffusion
-in Ghana and Côte d’Ivoire, ca. 1900-1950. Manuscript status: R&R. Preprint at SSRN: [https://dx.doi.org/10.2139/ssrn.6446654](https://dx.doi.org/10.2139/ssrn.6446654)
+• Vrooman, A.C.E. (2026). Constructing a Dutch Historical Climate Vocabulary (v1) based on GLOBALISE. Zenodo. [https://doi.org/10.5281/zenodo.18246268](https://doi.org/10.5281/zenodo.18246268)
 
-Vrooman, A.C.E. (2026). Constructing a Dutch Historical Climate Vocabulary (v1.1) based on GLOBALISE. Zenodo. [https://doi.org/10.5281/zenodo.19608045](https://doi.org/10.5281/zenodo.19608045)
-
-Vrooman, A.C.E. (2026). Constructing a Dutch Historical Climate Vocabulary (v1) based on GLOBALISE. Zenodo. [https://doi.org/10.5281/zenodo.18246268](https://doi.org/10.5281/zenodo.18246268)
-
-Vrooman, A.C.E. (2024). The Development of Colonial Health Care Provision in Ghana and Côte d’Ivoire, 1900-1955. *Frontiers in African Economic History*. [https://www.aehnetwork.org/blog/the-development-of-colonial-health-care-provision-in-ghana-and-cote-divoire-1900-1955/](https://www.aehnetwork.org/blog/the-development-of-colonial-health-care-provision-in-ghana-and-cote-divoire-1900-1955/)
+• Vrooman, A.C.E. (2024). The Development of Colonial Health Care Provision in Ghana and Côte d’Ivoire, 1900-1955. *Frontiers in African Economic History*. [https://www.aehnetwork.org/blog/the-development-of-colonial-health-care-provision-in-ghana-and-cote-divoire-1900-1955/](https://www.aehnetwork.org/blog/the-development-of-colonial-health-care-provision-in-ghana-and-cote-divoire-1900-1955/)
 
 
