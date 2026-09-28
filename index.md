@@ -19,7 +19,9 @@ My research interests include history of climate and energy, African economic hi
 • Vrooman, A.C.E. (2023). The development of colonial health care provision in Ghana and Côte d'Ivoire: ca. 1900-55. *Economic History of Developing Regions, 38*(3), 215-255. [https://doi.org/10.1080/20780389.2023.2209284](https://doi.org/10.1080/20780389.2023.2209284)
 
 # Working papers
-• Vrooman, A.C.E. (2026). Constructing Semantically Coherent and Interpretable Historical Vocabularies from Domain-Specific Corpora: An Early Modern Dutch Case Study in Climate and Weather using VOC archives.  [https://doi.org/10.5281/zenodo.20629251](https://doi.org/10.5281/zenodo.20629251)
+• Vrooman, A.C.E. (2026). Contextual Transformer-Based Disambiguation of Historical Dutch _weder_: An Early Modern Case Study using GLOBALISE. [https://doi.org/10.5281/zenodo.23010930](https://doi.org/10.5281/zenodo.23010930)) 
+
+• Vrooman, A.C.E. (2026). Constructing Semantically Coherent and Interpretable Historical Vocabularies from Domain-Specific Corpora: An Early Modern Dutch Case Study in Climate and Weather using VOC archives. [https://doi.org/10.5281/zenodo.20629251](https://doi.org/10.5281/zenodo.20629251)
 
 • Vrooman, A.C.E. (2026). Structuring Colonial Health Care Facilities: Understanding the Factors Behind their Spatial Diffusion in Ghana and Côte d’Ivoire, ca. 1900-1950. [https://dx.doi.org/10.2139/ssrn.6446654](https://dx.doi.org/10.2139/ssrn.6446654)
 
