@@ -19,7 +19,7 @@ My research interests include history of climate and energy, African economic hi
 • Vrooman, A.C.E. (2023). The development of colonial health care provision in Ghana and Côte d'Ivoire: ca. 1900-55. *Economic History of Developing Regions, 38*(3), 215-255. [https://doi.org/10.1080/20780389.2023.2209284](https://doi.org/10.1080/20780389.2023.2209284)
 
 # Book
-Vrooman, A.C.E. _Economic History of Health Care and Disease in Colonial West Africa: The Cases of Ghana and Côte d’Ivoire (ca. 1900-1955). Routledge, Perspectives in Economic and Social History Book Series. Forthcoming 2027.
+Vrooman, A.C.E. _Economic History of Health Care and Disease in Colonial West Africa: The Cases of Ghana and Côte d’Ivoire (ca. 1900-1955)_. Routledge, Perspectives in Economic and Social History Book Series. Forthcoming 2027.
 
 # Working papers
 • Vrooman, A.C.E. (2026). Contextual Transformer-Based Disambiguation of Historical Dutch *weder*: An Early Modern Case Study using GLOBALISE. [https://doi.org/10.5281/zenodo.23010930](https://doi.org/10.5281/zenodo.23010930)
